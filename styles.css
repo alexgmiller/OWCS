@@ -1,0 +1,11 @@
+li {
+    float: left;
+    display: block;
+    padding: 8px;
+    background-color: white;
+    font-size: 18px;
+  }
+
+body {
+    background-image: url(‘assets/lines-light.png’);
+  }
